@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "biz.bizsolution.project_9",
-    "sha256_cert_fingerprints":
-    ["EB:5D:63:FB:93:EB:D6:38:3A:BE:61:F1:F7:00:FE:74:28:5A:F2:3F:D1:E5:31:FE:42:0B:CF:19:D8:D2:80:EA"]
-  }
-}]
